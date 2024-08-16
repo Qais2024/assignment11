@@ -65,7 +65,44 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
-
+  assets:
+    - photo/gptphoto.jpg
+    - photo/12.jpg
+    - photo/qais.jpg
+    - photo/khalifa.jpg
+    - photo/khalifa2.jpg
+    - photo/khalifa3.jpg
+    - photo/citic.jpg
+    - photo/citic2.jpg
+    - photo/cft.jpg
+    - photo/ifs.jpg
+    - photo/ifs2.jpg
+    - photo/ifs3.jpg
+    - photo/lotte.jpg
+    - photo/lotte2.jpg
+    - photo/lotte3.jpg
+    - photo/maka.jpg
+    - photo/maka2.jpg
+    - photo/maka3.jpg
+    - photo/ping center.jpg
+    - photo/ping center2.jpg
+    - photo/ping center3.jpg
+    - photo/shanghai.jpg
+    - photo/shanghai2.jpg
+    - photo/shanghai3.jpg
+    - photo/tianjin.jpg
+    - photo/tianjin2.jpg
+    - photo/tianjin3.jpg
+    - photo/one world.jpg
+    - photo/one world2.jpg
+    - photo/one world3.jpg
+    - photo/topten.jpg
+    - photo/petronas.jpg
+    - photo/petronas2.jpg
+    - photo/petronas3.jpg
+    - photo/backpage.JPG
+    - photo/toptentower page-1.jpg
+    - photo/toptentower page1-1.jpg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
