@@ -40,11 +40,12 @@ class _popbuttonState extends State<popbutton> {
               ],
             ),
           ),
+
           PopupMenuItem(
             value: 2,
             child: Row(
               children: [
-                Icon(Icons.account_box),
+                Icon(Icons.account_box,color:Colors.blue),
                 GestureDetector(onTap:(){    Navigator.push(context, MaterialPageRoute(builder: (context) => about1(),));},child:  Text("About")),
                 SizedBox(height: 10,),
               ],
@@ -54,7 +55,7 @@ class _popbuttonState extends State<popbutton> {
             value: 3,
             child: Row(
               children: [
-                Icon(Icons.exit_to_app),
+                Icon(Icons.exit_to_app,color:Colors.blue),
                 GestureDetector(onTap:(){SystemNavigator.pop();},child:  Text("Exit")),
                 SizedBox(height: 10,),
               ],
